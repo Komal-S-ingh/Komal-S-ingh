@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Komal-S-ingh
-- 👀 I’m interested in Frontend Development and Javascript projects. I have good knowledge in the Design part also as I have worked in design for up to 4 years. I have recently switched my profile from a web designer to frontend developer
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on Javascript and Angular projecrs.
-- 📫 You can reach me by mailing me on krsingh1239@gmail.com
+👋 Hi, I'm a Full-Stack Web Designer & Digital Marketing Expert with 9+ years of experience building responsive websites, apps, and digital graphics that are both beautiful and high-performing.
 
-<!---
-Komal-S-ingh/Komal-S-ingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I specialize in:
+
+- Front-End Development (HTML, CSS, JavaScript)
+- UX/UI Design
+- SEO & Digital Marketing Strategy
+- Branding & Visual Design
+
+🔧 I bring a holistic approach—combining design, development, and marketing—to deliver complete digital solutions from concept to deployment.
+🎯 Passionate about creating intuitive user experiences, optimizing digital performance, and solving real business problems through design.
+
+Let’s connect and build something impactful!
